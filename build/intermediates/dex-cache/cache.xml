@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_baac4115a7663ad195204d34e2826bac010842bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef1b63fd77bbd9fdbd92f89d79dc4b91f14e8702">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8daeb8876c2a44a34239d72fd0cfa622a68aa2e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d0d2a7ca1be9afc23147de7b8cc7fdf86bf4567">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_db75651712b90890f56c5cf3ebfe6991e8a4bbd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83ea4be273b93e4580be4f1f0dd76f100f073081">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df2f15a0d6fbfe9eb414ea0de4fec45f1a2442bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_20f2e4584b48d818b43fe6b216549de2707f18da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_6a260ca7d5212e01240cf3eeec6b99f31915ba64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_cedaefec2c0faa545180702ddc42be31314a8507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_8e3df01487054a6fa16daf5eb99ca9cc609ae2a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_278b2df1c50e420919133ccb6362119b94b52a48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a410f162924e847ded67e0936943496b0577560f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b097f39919564a8901e46bb0b0421fc0d73bbc08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_793fcd4565f68c3df4ff2509212e62bdb846d51f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_c19b9ed6aa37e89f155bc2d0720912b795bdc3cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_67f4e75f2b46bc91f38e16f7b83f8a211646708b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_c2fb3e4d451966f40e2e6d88e2ceab5a7ad30856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_08735edb1f1e67022b2b5485351c94ec1da5a5e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40844870d07e568a300f6b2283b877a06bec9bde">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a3df9545f9e393b0294fa05fedc6cac88f4e522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/christopherjackson/fragments/assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_16de6443e35d9b517b699e8e0652420f7200b4bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_bfc6416772574c3d554b26f0dcec6a1a4df9ef3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_8fac8bbb1d97d406ee551f3eea1a8a705cabebec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_71b1902da8756c7cdb403ef93cdccfdb34319bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_a433e582077fc2a018902df798ce854a25b4525c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/christopherjackson/background_tasks/assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_296b785009995e5d244a9826050d8fd05c27a668/classes.dex" />
+    </item>
+
+</items>
